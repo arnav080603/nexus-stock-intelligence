@@ -1,5 +1,7 @@
 # NEXUS: Stock Intelligence Platform
 
+**▶ Try it live: https://arnav080603.github.io/nexus-stock-intelligence/**
+
 A complete stock research, forecasting and portfolio app in a **single HTML file**: no build step, no backend, and it runs entirely in the browser.
 
 ![NEXUS hub](screenshot.png)
